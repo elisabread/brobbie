@@ -5,12 +5,12 @@ Ever wanted to break up with someone but needed input from a trusted peer on how
 
 ### Built With
 
-React
-Vite
-Charkra UI
-AWS Neptune
-AWS Lambda
-AWS AppSync
+* React
+* Vite
+* Charkra UI
+* AWS Neptune
+* AWS Lambda
+* AWS AppSync
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -19,16 +19,16 @@ To start using the application you will need to download the repo to your local 
 
 ### Prerequisites
 
-    ```sh
-  cd frontend
-  ```
+```sh
+cd frontend
+```
   
-  ```sh
-  npm install
-  ```
+```sh
+npm install
+```
 
-   ```sh
-  npm run dev
-  ```
+```sh
+npm run dev
+```
 
 Happy writing! ✏️💔
