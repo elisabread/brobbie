@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap");
+
+* {
+  font-family: "Inter", sans-serif;
+}
+
+.custom-textarea {
+  /* Hide the scrollbar */
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+
+.custom-textarea::-webkit-scrollbar {
+  width: 0; /* Remove scrollbar space */
+  background: transparent; /* Optional: You can set a background color here */
+}
